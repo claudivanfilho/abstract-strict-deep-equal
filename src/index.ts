@@ -9,7 +9,7 @@ export default function deepEqual(x: any, y: any, useStrict = false) {
     typeof y == "object" &&
     y != null
   ) {
-    if (x.getTime && y.getTime) {
+    if (x instanceof Date && y instanceof Date) {
       if (!deepEqual(x.getTime(), y.getTime(), useStrict)) return false;
     }
     if (Object.keys(x).length != Object.keys(y).length) return false;

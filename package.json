@@ -1,6 +1,6 @@
 {
   "name": "abstract-strict-deep-equal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A helper function to calculate deep equality using abstract(==) or strict(===) method. (~333B)",
   "main": "dist/index.js",
   "scripts": {
@@ -22,8 +22,9 @@
     "strict",
     "equal",
     "deep",
-    "equal",
+    "equals",
     "deep equal",
+    "deepEqual",
     "deepEquals"
   ],
   "author": "Claudivan Filho",
