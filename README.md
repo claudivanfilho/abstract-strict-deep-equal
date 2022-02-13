@@ -27,4 +27,4 @@ deepEqual({ a: "1" }, { a: 1 }, true); // It will returns false
 
 ## Demo
 
-Soon
+https://codesandbox.io/s/javascript-forked-xm92g?file=/index.js
