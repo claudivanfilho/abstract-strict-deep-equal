@@ -1,6 +1,6 @@
 # Abstract Strict Deep Equal
 
-An incredibly **LIGHTER** helper function to calculate deep equality using abstract(==) or strict(===) method.
+An incredibly **LIGHT** helper function to calculate deep equality using abstract(==) or strict(===) method.
 
 ![npm version](https://badgen.net/npm/v/abstract-strict-deep-equal)
 ![Min](https://badgen.net/bundlephobia/min/abstract-strict-deep-equal)
